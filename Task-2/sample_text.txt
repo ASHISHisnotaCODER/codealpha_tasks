@@ -1,0 +1,36 @@
+Hello, this is a sample text file to test our email extractor script.
+
+Welcome to our new system! You can contact our support team at support@example.com for any queries. 
+If you are a premium member, please reach out directly to premium.support@example.com for priority assistance.
+
+For billing issues, please reach out to billing-department@company.co.uk. Our old billing address was billing@company.com, but that is no longer monitored.
+
+Here are some other emails that might be interesting:
+- john.doe123@gmail.com
+- jane_smith.99@yahoo.com
+- admin@local-domain.net
+
+We recently hired some new staff members, you can reach out to them:
+- Alice (alice.wonderland@startup.io)
+- Bob (b.builder@construction.org)
+- Charlie (charlie_chocolate@factory.net)
+
+Please do not email the following people as they have left the company:
+- ex.employee1@company.com
+- ex.employee2@company.com
+
+Some invalid emails for testing purposes:
+- missing-at-sign.com
+- @missingusername.org
+- invalid@email.c
+- spaces in@email.com
+- double@@example.com
+
+If you have any feedback regarding our services, please email feedback@services.company.net. 
+
+For partnership opportunities, please contact partners@global-reach.biz.
+
+And here's a few random ones mixed in text. Send your resume to hr@jobs.com or careers@jobs.com if you want to work here. If you need IT help, it-support@internal.corp.com is the best bet.
+
+Thank you!
+sales@company.com
